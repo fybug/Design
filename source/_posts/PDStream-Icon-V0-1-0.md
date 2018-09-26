@@ -9,5 +9,5 @@ mathjax: false
 
 <!--more-->
 <p align="center">
-  <img src="/designgallery/img/PDStream%20Icon%20V0.1.0.png" alt="Portrait" />
+  <img src="/design/img/PDStream%20Icon%20V0.1.0.png" alt="Portrait" />
 </p>

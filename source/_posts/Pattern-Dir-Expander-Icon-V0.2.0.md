@@ -9,5 +9,5 @@ mathjax: false
 
 <!--more-->
 <p align="center">
-  <img src="/designgallery/img/Pattern%20Dir%20Expander%20Icon%20V0.2.0.png" alt="Portrait" />
+  <img src="/design/img/Pattern%20Dir%20Expander%20Icon%20V0.2.0.png" alt="Portrait" />
 </p>

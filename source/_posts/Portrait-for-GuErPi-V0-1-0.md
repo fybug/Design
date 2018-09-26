@@ -9,5 +9,5 @@ mathjax: false
 
 <!--more-->
 <p align="center">
-  <img src="/designgallery/img/Portrait%20for%20GuErPi%20V0.1.0.png" alt="Portrait" />
+  <img src="/design/img/Portrait%20for%20GuErPi%20V0.1.0.png" alt="Portrait" />
 </p>

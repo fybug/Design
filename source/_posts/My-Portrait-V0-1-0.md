@@ -9,5 +9,5 @@ mathjax: false
 
 <!--more-->
 <p align="center">
-  <img src="/designgallery/img/My%20Portrait%20V0.1.0.png" alt="Portrait" />
+  <img src="/design/img/My%20Portrait%20V0.1.0.png" alt="Portrait" />
 </p>
