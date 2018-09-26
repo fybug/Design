@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://fybug.gitee.io/designgallery
-root: /designgallery
+url: https://fybug.gitee.io/design
+root: /design
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
